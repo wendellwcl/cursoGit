@@ -4,12 +4,12 @@
 **texto em negrito**
 *texto em italico*
 
-*Lista **não** ordenada*
+### *Lista **não** ordenada*
 * item
 * item
 * item
 
-*lista **ordenada***
+### *lista **ordenada***
 1. item
 2. item
 3. item
