@@ -30,3 +30,7 @@ function myFunction(){
     return 'Hello World'
 };
 ```
+
+### Lista de tarefas
+[x] tarefa concluída
+[] tarefa **não** concluída
