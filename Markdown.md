@@ -16,3 +16,6 @@
 
 ### imagem local
 ![Icone Markdown](img/Markdown.png)
+
+### imagem externa
+![Icone Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png)
