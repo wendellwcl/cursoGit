@@ -32,5 +32,5 @@ function myFunction(){
 ```
 
 ### Lista de tarefas
-- [ x ] tarefa concluída
+- [x] tarefa concluída
 - [ ] tarefa **não** concluída
